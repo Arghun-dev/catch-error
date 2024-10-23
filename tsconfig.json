@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2017", // or higher
+    "module": "esnext", // or one of the supported options (e.g., 'es2022', 'node16', etc.)
+    "lib": ["esnext"],
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
+  }
+}
